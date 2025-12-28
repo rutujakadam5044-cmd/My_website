@@ -21,3 +21,9 @@ section {
 h1, h2 {
   color: #1db954;
 }
+img {
+  width: 200px;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
+}
